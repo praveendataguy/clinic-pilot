@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+sqlalchemy
+httpx
+streamlit
+pytest
+mcp>=1.23,<2
+google-genai
+phonenumbers
+openpyxl
+pandas
