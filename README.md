@@ -1,5 +1,9 @@
 # ClinicPilot: AI Receptionist for Clinics
 
+![ClinicPilot: AI receptionist booking a visit and giving room directions](docs/screenshot.png)
+
+**One MCP server. Any agent. Books visits, guides patients to the room, and keeps staff access safe by design.**
+
 ClinicPilot is an AI receptionist for a busy clinic (the demo uses a sample clinic, Sunrise Family Clinic). Patients talk to it in plain language and it books and cancels appointments, answers questions, takes messages, tells them how to find the doctor's room, and hands over to a human when needed. Staff get a secure web app with role-based access, daily reports and an observability log that shows where the AI fell short.
 
 > Built for the Amazon Developer Hackathon, **Alexa+ category**: a working **self-hosted MCP server** (MCP spec version **2025-11-25**) plus a web app that simulates the Alexa+ experience with our own agent (Gemini).
